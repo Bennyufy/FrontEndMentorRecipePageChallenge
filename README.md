@@ -19,7 +19,7 @@ Thanks for checking out this front-end coding challenge.
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/Bennyufy/FrontEndMentorRecipePageChallenge.git)
-- Live Site URL: [Add live site URL](https://github.com/Bennyufy/FrontEndMentorRecipePageChallenge.git)
+- Live Site URL: [Add live site URL](https://bennyufy.github.io/FrontEndMentorRecipePageChallenge/)
 
 ## My process
 
