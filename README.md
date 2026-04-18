@@ -1,5 +1,3 @@
-# FrontEndMentorRecipePageChallenge
-A challenge to build a recipe page.
 # Frontend Mentor - Recipe page solution
 
 This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm) 
@@ -20,8 +18,8 @@ Thanks for checking out this front-end coding challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Bennyufy/FrontEndMentorRecipePageChallenge.git)
+- Live Site URL: [Add live site URL](https://github.com/Bennyufy/FrontEndMentorRecipePageChallenge.git)
 
 ## My process
 
