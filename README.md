@@ -82,6 +82,5 @@ proud of this html
 ```
 ## Author
 
-- Website - [Edhemu Benita Ufuoma](https://www.your-site.com)
 - Frontend Mentor - [@Bennyufy](https://www.frontendmentor.io/profile/Bennyufy)
 - Github - [@Bennyufy](https://github.com/Bennyufy)
